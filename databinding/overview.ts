@@ -24,5 +24,9 @@ import {Component} from "angular2/core";
 })
 
 export class MyComponent {
+<<<<<<< HEAD
 	myName = "Bob";
+=======
+	var myName = "Jameson";
+>>>>>>> 1321dd87dbdcaa0e96ae0def1e9f6fe5dbbac585
 }
