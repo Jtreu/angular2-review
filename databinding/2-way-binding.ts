@@ -9,7 +9,7 @@ import {Component} from "angular2/core";
 			
 			Syntax:
 
-			[(ngModel)] = ""
+			[(ngModel)] = "name_of_variable_to_read_and_write_from"
 		-->
 
 		<!--(1) We can't bind a property like value because that's not built into the html element; we use ngModel which is an angular 2 directive that handles 2-way data binding -->
